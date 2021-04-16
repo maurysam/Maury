@@ -10,21 +10,21 @@
         {
 
           "chid": "1",
-          "chname": "sample1",
+          "chname": "samuel1",
           "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
           "chenable": "",
           "chnote": "",
-          "chlink": "http://gsesmarttv.no-ip.org/appvideo/gseiptvandroid.mp4"
+          "chlink": "http://23.237.29.98:3782/260htv/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8"
 
         },
         {
 
           "chid": "1",
-          "chname": "sample2",
+          "chname": "toon2",
           "chlogo": "http://gsetechnology.co.uk/samplelogo.png",
           "chenable": "",
           "chnote": "",
-          "chlink": "http://gsesmarttv.no-ip.org/appvideo/gseiptvandroid.mp4"
+          "chlink": "http://balancer1.ottmex.com:8081/tecno/Tooncast.Tecnobyte/chunks.m3u8"
 
         },
         {
